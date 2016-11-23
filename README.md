@@ -1,6 +1,8 @@
 ## Introduction
 
-This assignment uses data from
+This folder contains 4 plots in png format and the corresponding 4 R scripts as requested.
+
+The assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
